@@ -1,0 +1,10 @@
+C:\web\App3\App3\bin\Debug\App3.exe.config
+C:\web\App3\App3\bin\Debug\App3.exe
+C:\web\App3\App3\bin\Debug\App3.pdb
+C:\web\App3\App3\obj\Debug\App3.csproj.AssemblyReference.cache
+C:\web\App3\App3\obj\Debug\App3.Form1.resources
+C:\web\App3\App3\obj\Debug\App3.Properties.Resources.resources
+C:\web\App3\App3\obj\Debug\App3.csproj.GenerateResource.cache
+C:\web\App3\App3\obj\Debug\App3.csproj.CoreCompileInputs.cache
+C:\web\App3\App3\obj\Debug\App3.exe
+C:\web\App3\App3\obj\Debug\App3.pdb
